@@ -36,9 +36,8 @@ body
     top: 50%;
 }
 .wrapper {
-    text-align: center;
+    text-align: right;
     width:500px;
-    margin-right:auto;
 }
 
 .button {
@@ -46,7 +45,7 @@ body
     top: 50%;
 }
 .wrapper {
-    text-align: center;
+    text-align: right;
 }
 
 .button {
