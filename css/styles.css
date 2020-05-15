@@ -10,7 +10,7 @@ body
 }
 .wrapper {
     text-align: center;
-    width:500px;
+    width:700px;
 }
 
 .button {
@@ -19,7 +19,7 @@ body
 }
 .wrapper {
     text-align: center;
-    width:500px;
+    width:700px;
 }
 
 .button {
@@ -28,7 +28,7 @@ body
 }
 .wrapper {
     text-align: center;
-    width:500px;
+    width:700px;
 }
 
 .button {
@@ -36,8 +36,8 @@ body
     top: 50%;
 }
 .wrapper {
-    text-align: right;
-    width:500px;
+    text-align: center;
+    width:700px;
 }
 
 .button {
@@ -45,7 +45,8 @@ body
     top: 50%;
 }
 .wrapper {
-    text-align: right;
+    text-align: center;
+    width:700px;
 }
 
 .button {
