@@ -12,53 +12,55 @@ body
   display:grid;
   grid-template-columns:repeat(2, 1fr);
 }
-.wrapper {
-    text-align: center;
-    width:700px;
-}
-
-.button {
-    position: absolute;
-    top: 50%;
-}
-.wrapper {
-    text-align: center;
-    width:700px;
-}
-
-.button {
-    position: absolute;
-    top: 50%;
-}
-.wrapper {
-    text-align: center;
-    width:700px;
-}
-
-.button {
-    position: absolute;
-    top: 50%;
-}
-.wrapper {
-    text-align: center;
-    width:700px;
-}
-
-.button {
-    position: absolute;
-    top: 50%;
-}
-.wrapper {
-    text-align: center;
-    width:700px;
-}
-
-.button {
-    position: absolute;
-    top: 50%;
-}
 @media (max-width:900px){
   .grid{
     display:block;
   }
 }
+}
+.wrapper {
+    text-align: center;
+    width:700px;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
+.wrapper {
+    text-align: center;
+    width:700px;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
+.wrapper {
+    text-align: center;
+    width:700px;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
+.wrapper {
+    text-align: center;
+    width:700px;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
+.wrapper {
+    text-align: center;
+    width:700px;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
+
