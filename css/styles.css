@@ -57,7 +57,9 @@ body
     position: absolute;
     top: 50%;
 }
-@media only screen and (max-width: 600px) {
-  body {
+@media (min-width: 700px) {
+  .user-profile {
+    display: flex;
+    ...
   }
 }
