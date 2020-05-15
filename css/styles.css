@@ -57,9 +57,8 @@ body
     position: absolute;
     top: 50%;
 }
-@media (min-width: 700px) {
-  .user-profile {
-    display: flex;
-    ...
+@media (max-width:900px){
+  .grid{
+    display:wrapper;
   }
 }
