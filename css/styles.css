@@ -8,59 +8,14 @@ body
   margin-right: auto;
   width: 50%;
 }
-.grid{
-  display:grid;
-  grid-template-columns:repeat(2, 1fr);
-}
-@media (max-width:900px){
-  .grid{
-    display:block;
-  }
-}
-}
 .wrapper {
     text-align: center;
-    width:700px;
+    width:70%;
 }
 
 .button {
     position: absolute;
     top: 50%;
 }
-.wrapper {
-    text-align: center;
-    width:700px;
-}
 
-.button {
-    position: absolute;
-    top: 50%;
-}
-.wrapper {
-    text-align: center;
-    width:700px;
-}
-
-.button {
-    position: absolute;
-    top: 50%;
-}
-.wrapper {
-    text-align: center;
-    width:700px;
-}
-
-.button {
-    position: absolute;
-    top: 50%;
-}
-.wrapper {
-    text-align: center;
-    width:700px;
-}
-
-.button {
-    position: absolute;
-    top: 50%;
-}
 
